@@ -1,0 +1,1 @@
+# This folder contains utilitiy, validate, logic functions

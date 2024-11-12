@@ -1,0 +1,34 @@
+.ql-editor {
+  min-height: 200px;
+}
+.ql-toolbar .ql-back::before {
+  content: "<";
+}
+
+.ql-toolbar .ql-next::before {
+  content: ">";
+}
+.ql-toolbar {
+  display: flex;
+  justify-content: start;
+}
+.apexcharts-legend-series {
+  text-align: center;
+  justify-content: center;
+}
+
+.ql-toolbar.ql-snow {
+  border-color: black !important;
+  border-radius: 10px 10px 0 0;
+  padding: 10px 0 !important;
+}
+.ql-container.ql-snow {
+  border-color: black !important;
+  border-radius: 0 0 10px 10px;
+}
+/* resposive */
+.ql-toolbar {
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
