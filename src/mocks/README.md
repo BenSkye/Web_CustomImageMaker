@@ -1,1 +1,0 @@
-# This folder contains mock data usign in UI before Backend team complete API
